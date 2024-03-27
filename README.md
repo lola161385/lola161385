@@ -5,13 +5,16 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=4277F7&random=false&width=550&lines=I'm+studying+to+become+a+full-stack+developer)](https://git.io/typing-svg)
 
+<!--
 <a href="https://github.com/lola161385/graduate-simulator"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=lola161385&repo=graduate-simulator"></a>
 
 <a href="https://github.com/lola161385/lola161385"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lola161385&layout=pie"></a>
-
+-->
 <details open> 
-  <summary><h2>📘 My Top Open Source Projects</h2></summary>
+  <summary><h2>📘 My Study Projects</h2></summary>
   <p align="left">
-    <a href="https://github.com/lola161385/graduate-simulator"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=lola161385&repo=graduate-simulator&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
-    <a href="https://github.com/lola161385/KioskCafe"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=lola161385&repo=KioskCafe&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+    <a href="https://github.com/lola161385/graduate-simulator"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=lola161385&repo=graduate-simulator&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+    <a href="https://github.com/lola161385/KioskCafe"><img width="350" src="https://github-readme-stats.vercel.app/api/pin/?username=lola161385&repo=KioskCafe&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="readme-typing-svg"></a>
+  </p>
+    <a href="https://github.com/lola161385?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
